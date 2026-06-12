@@ -18,8 +18,6 @@ env/
 # Generated outputs
 output_demo.jpg
 metrics_report.txt
-img0.png
-img1.png
 
 # Dataset / training artifacts
 dataset/
